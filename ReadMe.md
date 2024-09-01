@@ -1,4 +1,4 @@
-# Reusable Module Template for Spring Security Integration
+# Reusable Module Template for Spring Security Integration with Spring Boot 3
 
 ### Overview
 
@@ -16,7 +16,7 @@ This template is not a ready-to-use module but a foundational starting point for
 
 - **Pluggable Role Service Integration**: Easily extendable to support different external role services with varying response formats.
 - **OAuth Secured Roles Service Calls**: Supports OAuth token retrieval using either client credentials or username/password, providing flexibility in integrating with secured APIs.
-- **Caching Support**: Built-in support for caching user roles using Ehcache, reducing the need for repeated external service calls.
+- **Caching Support**: Built-in support for caching user roles using Ehcache, reducing the need for repeated external service calls.  (Yet to be implemented)
 - **SOLID Principles**: The module template follows SOLID design principles, ensuring clean, maintainable, and extendable code.
 
 ### Usage
